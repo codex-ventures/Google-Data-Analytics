@@ -17,8 +17,8 @@ As a junior data analyst at Cyclistic, a bike-share firm based in Chicago, I am 
 
 
 ## 🔗 Links
-- [Full Article](https://mcaloba-04272.stackbit.app/blog/post-eight)
-- [Short Version Article]()
+- [Full Article](https://mcaloba-04272.stackbit.app/blog/post-eight/)
+- [Short Version Article](https://medium.com/@marco_caloba/google-data-analytics-capstone-project-ea9ca4f5a9ab#394f)
 - [Personal website](https://mcaloba-04272.stackbit.app/)
 - [LinkdIn](https://www.linkedin.com/in/marcocaloba/)
 - [Medium](https://medium.com/@marco_caloba)
