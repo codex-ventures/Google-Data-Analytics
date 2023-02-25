@@ -11,11 +11,14 @@ As a junior data analyst at Cyclistic, a bike-share firm based in Chicago, I am 
 
 
 ## 📁 Documentation
-- [Dataset]()
-- [Python analysis]()
-- [Power BI dashboard]() 
+- [Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- [Python analysis](https://github.com/MPCaloba/Google-Data-Analytics/blob/main/Full_Analysis.py)
+- [Power BI dashboard](https://github.com/MPCaloba/Google-Data-Analytics/blob/main/2022_Dashboard.pbix) 
+
+
 ## 🔗 Links
-- [Article](https://mcaloba-04272.stackbit.app/blog/post-eight)
+- [Full Article](https://mcaloba-04272.stackbit.app/blog/post-eight)
+- [Short Version Article]()
 - [Personal website](https://mcaloba-04272.stackbit.app/)
 - [LinkdIn](https://www.linkedin.com/in/marcocaloba/)
 - [Medium](https://medium.com/@marco_caloba)
